@@ -1,5 +1,6 @@
 # User Recommender of RMDS LAB
-This is the users recommendation system deployed on the [RMDS LAB](https://grmds.org).
+RMDS Lab is aiming to make its work more public to let data scientists enjoy the charm in algorithms. This is one of its open-source projects, user recommender, which
+is deployed on the [RMDS LAB](https://grmds.org).
 
 ## Introduction
 RMDS wants to recommend RMDS user to other RMDS users customly based on user similarity. We would collect user data from the database and calculate out similarity scores for each pair of users, and recommend users to users who have high similarity scores with them.
